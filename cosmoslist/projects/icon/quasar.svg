@@ -1,29 +1,49 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_954_5324)">
-<mask id="mask0_954_5324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
-<path d="M38.8847 0H11.1154C4.97653 0 0 4.97653 0 11.1154V38.8847C0 45.0233 4.97653 50 11.1154 50H38.8847C45.0233 50 50 45.0233 50 38.8847V11.1154C50 4.97653 45.0233 0 38.8847 0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_954_5324)">
-<path d="M-0.0512695 2.88155C-0.0512695 1.2618 1.2618 -0.0512695 2.88154 -0.0512695H47.0847C48.7045 -0.0512695 50.0175 1.2618 50.0175 2.88155V47.0848C50.0175 48.7046 48.7045 50.0176 47.0847 50.0176H2.88157C1.2618 50.0176 -0.0512695 48.7046 -0.0512695 47.0848V2.88155Z" fill="white"/>
-<path d="M0 0H50.0803V50.0803H0V0Z" fill="url(#paint0_radial_954_5324)"/>
-</g>
-<mask id="mask1_954_5324" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
-<path d="M50 0H0V50H50V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask1_954_5324)">
-<path d="M23.7216 24.3697L0 12.6714V38.8847C0 45.0233 4.97656 49.9999 11.1154 49.9999H37.3286L23.9066 24.5496C23.8655 24.4715 23.8007 24.4083 23.7216 24.3692V24.3697Z" fill="black"/>
-<path d="M38.8847 0H12.6714L26.2758 25.5413C26.3169 25.6189 26.3817 25.6811 26.4604 25.7202L50.0005 37.3286V11.1154C49.9999 4.97656 45.0233 0 38.8847 0Z" fill="black"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
 <defs>
-<radialGradient id="paint0_radial_954_5324" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.0401 25.0401) rotate(-135) scale(42.4944 32.0478)">
-<stop offset="0.140625" stop-color="#FFFBD8"/>
-<stop offset="0.307292" stop-color="#5FECDB" stop-opacity="0.64"/>
-<stop offset="0.520833" stop-color="#4FBAF7"/>
-<stop offset="0.791667" stop-color="#A745F4"/>
-</radialGradient>
-<clipPath id="clip0_954_5324">
-<rect width="50" height="50" rx="25" fill="white"/>
+<clipPath id="clip1">
+  <path d="M 25 0 C 38.808594 0 50 11.191406 50 25 C 50 38.808594 38.808594 50 25 50 C 11.191406 50 0 38.808594 0 25 C 0 11.191406 11.191406 0 25 0 Z M 25 0 "/>
 </clipPath>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAACQUlEQVRoge2az2vTYByHP9/UwqppR7davA+v67AyRZyoFdmgeNBD2VlUZEz/A0GUHRUvY7jTLuvGLs6LDLUMW8VDUTfRg6IMxOLSuv5g2nVN+/UQNupG3Wyk71t5HwiEJCTPQ0Lew/sCdeD0hJtLsUE226a5PPqezWCOTQc3dwvmuHz/HZv6FJdig2yE9Hq+2wOSDievT15j80y6+eI7bf0Gr88Oc9Lh3OpNv0UUrnfCNT4DKp3adbkIOJPA2swFcl82Ng5pm+cKcR/2dryUPgIAyHccbekEF+K+zUOA9TkhUHwCcp0QZ9cATPNY4LN0uFK23kj3naGWiwAA4pPonrti7aYn3PBGPwGP94v2aowBAyvFrj3wVM61bgQAPPKjPRkmNvUpoBgRrWOPzqgGHgmI1rAN3w4Qmz154K1HtIs9gjli08GiNf4F2s6XtAYqRDZUiGyoENlQIbKhQmRDhciGCpENFSIbKkQ2VIhsqBDZUCGyoUJkQwN68qIl7HMkq4EvpkRr2IYvpf6jiZ7Kw1nRGrapfHxAbIR0dDg/t+48YngZmS9dGvmfrqJ69ZZonYap3r1JB179sH6/i+fHwDQv1qgBWI/h+ddxoGYtChfiPrievQDdOCjO7C/gkQ8opo6R5953oGZAJE9fBj+nj4L1mDi7XcL5ONa8fRsRwJaRndoXV7Cw2o/q3DAwYGy/g2jCy6i+GULi9enalUF/hI2QzqWlCJveqLX4qzfb/PVZvVnr2f5JLi1F+NuhffV8fwFT+Oc2bQ4ljgAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="1" gradientTransform="matrix(-30.048078,-30.048078,22.661217,-22.661217,25.0401,25.0401)">
+<stop offset="0.140625" style="stop-color:rgb(100%,98.431373%,84.705882%);stop-opacity:1;"/>
+<stop offset="0.307292" style="stop-color:rgb(37.254902%,92.54902%,85.882353%);stop-opacity:0.639216;"/>
+<stop offset="0.520833" style="stop-color:rgb(30.980392%,72.941176%,96.862745%);stop-opacity:1;"/>
+<stop offset="0.791667" style="stop-color:rgb(65.490196%,27.058824%,95.686275%);stop-opacity:1;"/>
+</radialGradient>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M -0.0507812 2.882812 C -0.0507812 1.261719 1.261719 -0.0507812 2.882812 -0.0507812 L 47.085938 -0.0507812 C 48.703125 -0.0507812 50.015625 1.261719 50.015625 2.882812 L 50.015625 47.085938 C 50.015625 48.703125 48.703125 50.019531 47.085938 50.019531 L 2.882812 50.019531 C 1.261719 50.019531 -0.0507812 48.703125 -0.0507812 47.085938 Z M -0.0507812 2.882812 "/>
+<rect x="0" y="0" width="50" height="50" style="fill:url(#radial0);stroke:none;"/>
+</g>
+<image id="image13" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVRYhe3OMRHAIAAAMaD+HXNHDXT5iQ6Jgsyzn/E/63bgm1ahVWgVWoVWoVVoFVqFVqFVaBVahVahVWgVWoVWoVVoFVqFVqFVaBVaxQuh3gJiZjmmswAAAABJRU5ErkJggg=="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<use xlink:href="#image13"/>
+  </g>
+</mask>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 23.722656 24.371094 L 0 12.671875 L 0 38.882812 C 0 45.023438 4.976562 50 11.117188 50 L 37.328125 50 L 23.90625 24.550781 C 23.867188 24.472656 23.800781 24.410156 23.722656 24.371094 Z M 23.722656 24.371094 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 38.882812 0 L 12.671875 0 L 26.277344 25.542969 C 26.316406 25.617188 26.382812 25.679688 26.460938 25.71875 L 50 37.328125 L 50 11.117188 C 50 4.976562 45.023438 0 38.882812 0 Z M 38.882812 0 "/>
+</g>
 </defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<use xlink:href="#surface12" mask="url(#mask1)"/>
+</g>
+</g>
 </svg>

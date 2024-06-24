@@ -1,36 +1,34 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_891_1212)">
-<path d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" fill="url(#paint0_radial_891_1212)"/>
-<path d="M25 46.875C37.0812 46.875 46.875 37.0812 46.875 25C46.875 12.9188 37.0812 3.125 25 3.125C12.9188 3.125 3.125 12.9188 3.125 25C3.125 37.0812 12.9188 46.875 25 46.875Z" fill="url(#paint1_linear_891_1212)"/>
-<path d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" fill="url(#paint2_linear_891_1212)"/>
-<path d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" fill="url(#paint3_radial_891_1212)"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
 <defs>
-<radialGradient id="paint0_radial_891_1212" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25 25) rotate(-180) scale(25)">
-<stop offset="0.5625" stop-color="#75FB75"/>
-<stop offset="0.760417" stop-color="#06B706"/>
-<stop offset="0.901042" stop-color="#04A304"/>
-<stop offset="0.9999" stop-color="#01AE01"/>
-<stop offset="1" stop-color="#009F00"/>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="1" gradientTransform="matrix(-25,-0.000000000000003062,0.000000000000003062,-25,25,25)">
+<stop offset="0.5625" style="stop-color:rgb(45.882353%,98.431373%,45.882353%);stop-opacity:1;"/>
+<stop offset="0.760417" style="stop-color:rgb(2.352941%,71.764706%,2.352941%);stop-opacity:1;"/>
+<stop offset="0.901042" style="stop-color:rgb(1.568627%,63.921569%,1.568627%);stop-opacity:1;"/>
+<stop offset="0.9999" style="stop-color:rgb(0.392157%,68.235294%,0.392157%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,62.352941%,0%);stop-opacity:1;"/>
 </radialGradient>
-<linearGradient id="paint1_linear_891_1212" x1="25" y1="3.125" x2="25" y2="29.375" gradientUnits="userSpaceOnUse">
-<stop offset="0.114583" stop-color="#86FF86"/>
-<stop offset="0.244792" stop-color="#42F342"/>
-<stop offset="0.505208" stop-color="#17C817"/>
-<stop offset="0.671875" stop-color="#01B201"/>
-<stop offset="0.817708" stop-color="#00A900"/>
-<stop offset="0.958333" stop-color="#14A514"/>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="25" y1="3.125" x2="25" y2="29.375" >
+<stop offset="0.114583" style="stop-color:rgb(52.54902%,100%,52.54902%);stop-opacity:1;"/>
+<stop offset="0.244792" style="stop-color:rgb(25.882353%,95.294118%,25.882353%);stop-opacity:1;"/>
+<stop offset="0.505208" style="stop-color:rgb(9.019608%,78.431373%,9.019608%);stop-opacity:1;"/>
+<stop offset="0.671875" style="stop-color:rgb(0.392157%,69.803922%,0.392157%);stop-opacity:1;"/>
+<stop offset="0.817708" style="stop-color:rgb(0%,66.27451%,0%);stop-opacity:1;"/>
+<stop offset="0.958333" style="stop-color:rgb(7.843137%,64.705882%,7.843137%);stop-opacity:1;"/>
 </linearGradient>
-<linearGradient id="paint2_linear_891_1212" x1="25" y1="2.1875" x2="25" y2="17.3438" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2CFF41" stop-opacity="0.31"/>
-<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="25" y1="2.1875" x2="25" y2="17.3438" >
+<stop offset="0" style="stop-color:rgb(17.254902%,100%,25.490196%);stop-opacity:0.309804;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,85.098039%,85.098039%);stop-opacity:0;"/>
 </linearGradient>
-<radialGradient id="paint3_radial_891_1212" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25 25) rotate(90) scale(25)">
-<stop offset="0.880208" stop-color="#D9D9D9" stop-opacity="0"/>
-<stop offset="1" stop-color="#010101" stop-opacity="0.28"/>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="1" gradientTransform="matrix(0.000000000000001531,25,-25,0.000000000000001531,25,25)">
+<stop offset="0.880208" style="stop-color:rgb(85.098039%,85.098039%,85.098039%);stop-opacity:0;"/>
+<stop offset="1" style="stop-color:rgb(0.392157%,0.392157%,0.392157%);stop-opacity:0.278431;"/>
 </radialGradient>
-<clipPath id="clip0_891_1212">
-<rect width="50" height="50" fill="white"/>
-</clipPath>
 </defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 25 50 C 38.808594 50 50 38.808594 50 25 C 50 11.191406 38.808594 0 25 0 C 11.191406 0 0 11.191406 0 25 C 0 38.808594 11.191406 50 25 50 Z M 25 50 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 25 46.875 C 37.082031 46.875 46.875 37.082031 46.875 25 C 46.875 12.917969 37.082031 3.125 25 3.125 C 12.917969 3.125 3.125 12.917969 3.125 25 C 3.125 37.082031 12.917969 46.875 25 46.875 Z M 25 46.875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 25 50 C 38.808594 50 50 38.808594 50 25 C 50 11.191406 38.808594 0 25 0 C 11.191406 0 0 11.191406 0 25 C 0 38.808594 11.191406 50 25 50 Z M 25 50 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial1);" d="M 25 50 C 38.808594 50 50 38.808594 50 25 C 50 11.191406 38.808594 0 25 0 C 11.191406 0 0 11.191406 0 25 C 0 38.808594 11.191406 50 25 50 Z M 25 50 "/>
+</g>
 </svg>

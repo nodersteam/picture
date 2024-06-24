@@ -1,19 +1,27 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_954_5221)">
-<mask id="mask0_954_5221" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
-<path d="M50 0H0V50H50V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_954_5221)">
-<path d="M20.7075 21.3522L22.2918 26.0316H18.7178L20.3943 21.3522H20.7075ZM29.2557 28.5372H26.6397V29.4583H33.0877V28.5372H30.5085V21.168H33.0877V20.2468H26.6397V21.168H29.2557V28.5372ZM17.4834 29.4583L18.3677 26.9896H22.6234L23.4525 29.4583H24.8158L21.4996 20.2468H19.6205L16.2491 29.4583H17.4834ZM38.2277 38.2277H11.7723V11.7722H38.2277V38.2277Z" fill="black"/>
-<path d="M27.5792 49.9999C39.3884 48.784 48.7842 39.3883 50 27.5791H46.8866C45.7812 37.8223 38.0251 45.9837 27.5792 47.1443V49.9999Z" fill="black"/>
-<path d="M0 27.5791C1.21592 39.3883 10.6116 48.784 22.4208 49.9999V47.1443C11.9749 45.9837 4.23729 37.8039 3.11349 27.5791H0Z" fill="black"/>
-<path d="M50 22.4208C48.7842 10.6116 39.3884 1.21591 27.5792 0V2.85557C38.0251 4.01621 45.7628 12.196 46.8866 22.4208H50Z" fill="black"/>
-<path d="M22.4207 0C10.6116 1.21591 1.21591 10.6116 0 22.4207H3.11349C4.21887 12.1776 11.9749 4.01621 22.4207 2.85557V0Z" fill="black"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
 <defs>
-<clipPath id="clip0_954_5221">
-<rect width="50" height="50" fill="white"/>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVRYhe3OMRHAIAAAMaD+HXNHDXT5iQ6Jgsyzn/E/63bgm1ahVWgVWoVWoVVoFVqFVqFVaBVahVahVWgVWoVWoVVoFVqFVqFVaBVaxQuh3gJiZjmmswAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="50" height="50"/>
 </clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 20.707031 21.351562 L 22.292969 26.03125 L 18.71875 26.03125 L 20.394531 21.351562 Z M 29.253906 28.539062 L 26.640625 28.539062 L 26.640625 29.457031 L 33.085938 29.457031 L 33.085938 28.539062 L 30.507812 28.539062 L 30.507812 21.167969 L 33.085938 21.167969 L 33.085938 20.246094 L 26.640625 20.246094 L 26.640625 21.167969 L 29.253906 21.167969 Z M 17.484375 29.457031 L 18.367188 26.988281 L 22.625 26.988281 L 23.453125 29.457031 L 24.816406 29.457031 L 21.5 20.246094 L 19.621094 20.246094 L 16.25 29.457031 Z M 38.226562 38.226562 L 11.773438 38.226562 L 11.773438 11.773438 L 38.226562 11.773438 Z M 38.226562 38.226562 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 27.578125 50 C 39.386719 48.785156 48.785156 39.386719 50 27.578125 L 46.886719 27.578125 C 45.78125 37.824219 38.023438 45.984375 27.578125 47.144531 Z M 27.578125 50 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 27.578125 C 1.214844 39.386719 10.613281 48.785156 22.421875 50 L 22.421875 47.144531 C 11.976562 45.984375 4.238281 37.804688 3.113281 27.578125 Z M 0 27.578125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 50 22.421875 C 48.785156 10.613281 39.386719 1.214844 27.578125 0 L 27.578125 2.855469 C 38.023438 4.015625 45.761719 12.195312 46.886719 22.421875 Z M 50 22.421875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 22.421875 0 C 10.613281 1.214844 1.214844 10.613281 0 22.421875 L 3.113281 22.421875 C 4.21875 12.175781 11.976562 4.015625 22.421875 2.855469 Z M 22.421875 0 "/>
+</g>
 </defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
 </svg>
