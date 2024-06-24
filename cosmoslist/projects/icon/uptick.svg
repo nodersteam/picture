@@ -1,21 +1,31 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_975_5721)">
-<path d="M24.853 49.8263C38.579 49.8263 49.706 38.6992 49.706 24.9733C49.706 11.2473 38.579 0.120239 24.853 0.120239C11.1271 0.120239 0 11.2473 0 24.9733C0 38.6992 11.1271 49.8263 24.853 49.8263Z" fill="white"/>
-<path d="M26.4165 44.7221L18.1054 36.1171L15.1525 38.9765L11.2642 34.9413L27.8328 18.9204L40.0456 31.5473L26.4165 44.7221ZM22.1407 32.2288L26.5501 36.7985L32.0953 31.4271L27.6859 26.8573L22.1407 32.2288Z" fill="url(#paint0_linear_975_5721)"/>
-<g opacity="0.2">
-<path d="M34.0996 14.8585L23.3166 25.2941L18.8938 20.7243L28.2604 11.6783H20.1899L10.9702 20.6041L23.1696 33.2176L37.9879 18.8937L34.0996 14.8585Z" fill="#533E94"/>
-<path d="M29.129 9.72751L25.7751 6.28015L22.2075 9.72751H29.129Z" fill="#533E94"/>
-</g>
-<path d="M33.0974 13.8563L22.301 24.2919L17.8916 19.7221L27.2582 10.6761H19.1877L9.96802 19.5885L22.1674 32.2154L36.9857 17.8915L33.0974 13.8563Z" fill="#7800F4"/>
-<path d="M28.1268 8.72531L24.7729 5.27795L21.2053 8.72531H28.1268Z" fill="#7800F4"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
 <defs>
-<linearGradient id="paint0_linear_975_5721" x1="25.6549" y1="21.0042" x2="25.6549" y2="44.1272" gradientUnits="userSpaceOnUse">
-<stop stop-color="#040000"/>
-<stop offset="1" stop-color="#322951"/>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="25.6549" y1="21.0042" x2="25.6549" y2="44.1272" >
+<stop offset="0" style="stop-color:rgb(1.568627%,0%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(19.607843%,16.078431%,31.764706%);stop-opacity:1;"/>
 </linearGradient>
-<clipPath id="clip0_975_5721">
-<rect width="50" height="50" fill="white"/>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="50" height="50"/>
 </clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(32.54902%,24.313725%,58.039216%);fill-opacity:1;" d="M 34.097656 14.859375 L 23.316406 25.292969 L 18.894531 20.722656 L 28.261719 11.679688 L 20.191406 11.679688 L 10.96875 20.605469 L 23.167969 33.21875 L 37.988281 18.894531 Z M 34.097656 14.859375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(32.54902%,24.313725%,58.039216%);fill-opacity:1;" d="M 29.128906 9.726562 L 25.773438 6.28125 L 22.207031 9.726562 Z M 29.128906 9.726562 "/>
+</g>
 </defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 24.851562 49.828125 C 38.578125 49.828125 49.707031 38.699219 49.707031 24.972656 C 49.707031 11.246094 38.578125 0.121094 24.851562 0.121094 C 11.128906 0.121094 0 11.246094 0 24.972656 C 0 38.699219 11.128906 49.828125 24.851562 49.828125 Z M 24.851562 49.828125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 26.417969 44.722656 L 18.105469 36.117188 L 15.152344 38.976562 L 11.265625 34.941406 L 27.832031 18.921875 L 40.046875 31.546875 Z M 22.140625 32.230469 L 26.550781 36.796875 L 32.09375 31.425781 L 27.6875 26.855469 Z M 22.140625 32.230469 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(47.058824%,0%,95.686275%);fill-opacity:1;" d="M 33.097656 13.855469 L 22.300781 24.292969 L 17.890625 19.722656 L 27.257812 10.675781 L 19.1875 10.675781 L 9.96875 19.589844 L 22.167969 32.214844 L 36.984375 17.890625 Z M 33.097656 13.855469 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(47.058824%,0%,95.686275%);fill-opacity:1;" d="M 28.125 8.726562 L 24.773438 5.277344 L 21.207031 8.726562 Z M 28.125 8.726562 "/>
+</g>
 </svg>
